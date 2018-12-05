@@ -1,5 +1,7 @@
+{
+"Question 1":
 [
-  {
+{
     "id": 1,
     "content": "What sport does the young Harry Potter practice while studying at Hogwarts?",
     "level": 1,
@@ -7,11 +9,11 @@
     "answers": [
       "ice-skate",
       "Wolf hunting",
-      "Quidditch(aïe)",
+      "Quidditch",
       "Football",
     ],
     "right_answer": 3,
-  },
+  }
   {
     "id": 2,
     "content": "Which of these houses does not belong to Hogwarts?",
@@ -24,7 +26,7 @@
       "Slytherin House",
     ],
     "right_answer": 3,
-  },
+  }
   {
     "id": 3,
     "content": "What spell can levitate an object?",
@@ -127,3 +129,4 @@
     "right_answer": 3,
   },
 ]
+}
