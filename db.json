@@ -11,9 +11,13 @@
       "answers 3":"Quidditch",
       "answers 4":"Football",
     "right_answer": 3,
-}
+},
 ]
-"Question 2"
-{"essai réussi"
 }
+{
+"Question 2":
+[
+"essai réussi",
+"mais c'est pas fini",
+]
 }
