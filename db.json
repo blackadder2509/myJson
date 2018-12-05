@@ -1,23 +1,28 @@
 {
-"Question 1":
-[
+"question1" : [
 {
-    "id": 1,
-    "content": "What sport does the young Harry Potter practice while studying at Hogwarts?",
-    "level": 1,
-    "theme": "Sports",
-    "answers 1":"ice-skate",
-     "answers 2":"Wolf hunting",
-      "answers 3":"Quidditch",
-      "answers 4":"Football",
-    "right_answer": 3,
-},
-]
+"id": 1,
+"content": "What sport does the young Harry Potter practice while studying at Hogwarts?",
+"level": 1,
+"theme": "Sports",
+"answers1": "ice-skate",
+"answers2": "Wolf hunting",
+"answers3": "Quidditch",
+"answers4": "Football",
+"right_answer": 3
 }
+],
+"question2" : [
 {
-"Question 2":
-[
-"essai réussi",
-"mais c'est pas fini",
-]
+"id": 2,
+"content": "Which of these houses does not belong to Hogwarts?",
+"level": 1,
+"theme": "The Houses",
+"answers1": "Hufflepuff House",
+"answers2": "Ravenclaw house",
+"answers3": "Gryffindor House",
+"answers4": "Slytherin House",
+"right_answer": 3
 }
+]
+} 
