@@ -1,16 +1,16 @@
 {
 "Question 1":
+[
 {
     "id": 1,
     "content": "What sport does the young Harry Potter practice while studying at Hogwarts?",
     "level": 1,
     "theme": "Sports",
-    "answers": [
-      "ice-skate",
-      "Wolf hunting",
-      "Quidditch",
-      "Football",
-    ],
+    "answers 1":"ice-skate",
+     "answers 2":"Wolf hunting",
+      "answers 3":"Quidditch",
+      "answers 4":"Football",
     "right_answer": 3,
 }
+]
 }
