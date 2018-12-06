@@ -1,5 +1,5 @@
 {
-"question1" : [
+"question1" : 
 {
 "id": 1,
 "content": "What sport does the young Harry Potter practice while studying at Hogwarts?",
@@ -12,22 +12,23 @@
  "Wolf hunting",
 "Quidditch",
 "Football",
+]
 
 "right_answer" 3
-]
-}
-],
-"question2" : [
+},
+"question2" : 
 {
 "id": 2,
 "content": "Which of these houses does not belong to Hogwarts?",
 "level": 1,
 "theme": "The Houses",
-"answers1": "Hufflepuff House",
-"answers2": "Ravenclaw house",
-"answers3": "Gryffindor House",
-"answers4": "Slytherin House",
-"right_answer": 3
-}
+"answers2":
+[ "Hufflepuff House",
+ "Ravenclaw house",
+"Gryffindor House",
+"Slytherin House",
 ]
+"right_answer" 3
+}
+
 } 
